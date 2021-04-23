@@ -17,7 +17,7 @@ timezone: Asia/Saigon
 # --------------------------
 title: NHS Teck                          # the main title
 
-tagline: Sẻ chia công nghệ   # it will display as the sub-title
+tagline: Sẻ chia đam mê công nghệ   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Một trang web chia sẻ kiến thức chuyên sâu về lập trình Java,
