@@ -24,13 +24,13 @@ image:
 
 * Tất nhiên rồi, để có thể phát triển ứng dụng bằng Java, thì điều đầu tiên cần làm là phải cài đặt Java, cụ thể hơn là JDK (Java Development Kit).
 
-* Bạn có thể vào trang https://jdk.java.net/, chọn version mà mình muốn cài đặt. Sau đó, tuỳ vào hệ điều hành mà bạn muốn cài (Windows, Linux, MacOS), bạn hãy chọn phiên bản phù hợp và làm theo hướng dẫn cài đặt thôi nhé.
+* Bạn có thể vào trang [https://jdk.java.net/](https://jdk.java.net/), chọn version mà mình muốn cài đặt. Sau đó, tuỳ vào hệ điều hành mà bạn muốn cài (Windows, Linux, MacOS), bạn hãy chọn phiên bản phù hợp và làm theo hướng dẫn cài đặt thôi nhé.
 
 ![Java JDK](/assets/img/posts/jdk_java_net.png)
 
 ### 2.2 Cài đặt Visual Studio Code
 
-* Không có gì đơn giản hơn là vào trang web https://code.visualstudio.com/download, sau đó chọn bản cài đặt phù hợp với hệ điều hành hiện tại mà bạn đang xài, nhấn vào là sẽ tự động download về cho mình.
+* Không có gì đơn giản hơn là vào trang web [https://code.visualstudio.com/download](https://code.visualstudio.com/download), sau đó chọn bản cài đặt phù hợp với hệ điều hành hiện tại mà bạn đang xài, nhấn vào là sẽ tự động download về cho mình.
 
 * Sau khi tải về, bạn chỉ cần giải nén, nhấn vào icon của VSCode là bạn đã có thể chạy ứng dụng lên rồi
 
